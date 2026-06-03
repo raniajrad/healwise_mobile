@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealWise</string>
+    <!-- Replace YOUR_FACEBOOK_APP_ID with your actual Facebook App ID -->
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+</resources>
+
